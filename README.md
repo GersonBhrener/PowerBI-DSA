@@ -14,7 +14,7 @@ Projetos e exercícios do cursos Microsoft Power BI para Data Science 2.0 minist
 
 ### Primeiros Passos com o Power BI Desktop
 
-- [Estudo de Caso 01 - Definindo o Problema de Negócio](https://github.com/GersonBhrener/PowerBI-DSA/tree/master/Cap02/estudo_caso_01)
+- [Estudo de Caso 01 - Definindo o Problema de Negócio](https://github.com/GersonBhrener/PowerBI-DSA/tree/master/Cap02)
 
 ## Softwares
 
